@@ -1,50 +1,48 @@
-**عنوان تسک**
+**Code Challenge Title**
 
-چالش پیاده‌سازی وب اپلیکیشن لیست تورهای **لست سکند**
+Implement a Web Application for List of Tours by LastSecond
 
-**توضیحات کلی**
+**General Description**
 
-در این پروژه، از متقاضی خواسته می‌شود یک وب اپلیکیشن کوچک با استفاده از تکنولوژی‌های مدرن فرانت‌اند ایجاد کند که شامل یک لیست از تورهای گردشگری باشد. اپلیکیشن باید از APIی ارائه شده برای دریافت اطلاعات استفاده کرده و قابلیت‌های اصلی از جمله فیلتر، مرتب‌سازی، و جستجو هر محصول را  پیاده‌سازی کند.
+In this project, the applicant is required to create a small web application using modern front-end technologies that includes a list of tourist tours. The application must utilize the provided API to retrieve information and implement key features such as filtering, sorting, and searching for each product.
 
-**قابلیت‌های اصلی**
+**Core Features**
 
--  نمایش لیست تورها همراه با جزئیاتی مثل تصویر، قیمت و عنوان
+- Display a list of tours along with details such as image, price, and title.
 
-- امکان فیلتر کردن تورها بر اساس درجه سختی
+- Ability to filter tours based on difficulty level.
 
-- امکان جستجو تورها بر اساس عنوان‌ آنها
+- Ability to search for tours by their titles.
 
-- امکان مرتب‌سازی تورها بر اساس قیمت
+- Ability to sort tours based on price.
 
-* آپدیت کردن Query String بر اساس فیلتر، جستجو و مرتب‌سازی های موجود
+- Update the query string based on the existing filters, searches, and sorting.
 
-**الزامات فنی**
+**Technical Requirements**
 
-- استفاده از Nuxt ورژن 3 به عنوان فریمورک اصلی پروژه
+- Use Nuxt version 3 as the main framework for the project.
 
-- استفاده از API ارائه‌شده برای دریافت اطلاعات تورها
+- Utilize the provided API to retrieve tour information.
 
-- پیاده‌سازی رابط کاربری بر اساس طرح ارائه شده در Figma
+- Implement the user interface based on the design provided in Figma.
 
-**موارد امتیازی**
+**Bonus Points**
 
-- استفاده از TypeScript برای افزایش امنیت و خوانایی کد
+- Use TypeScript to enhance code security and readability.
 
-- استفاده از Bootstrap برای استایل‌دهی و ایجاد رابط کاربری ریسپانسیو و منسجم
+- Use Bootstrap for styling and creating a responsive and cohesive user interface.
 
-- نوشتن حداقل یک تست برای یکی از بخش‌ها یا ویژگی‌های پروژه به دلخواه، جهت اطمینان از صحت کد.
+- Write at least one test for any section or feature of the project to ensure code correctness.
 
-**مهلت تکمیل**
+**Completion Deadline**
 
-- متقاضی باید از زمان ارسال چالش به مدت 1 روز پروژه را تحویل دهد.
+The applicant must submit the project within 1 day from the time the challenge is sent. If additional time is needed, a request for coordination should be made.
 
-- در صورت نیاز به زمان بیشتر، باید برای هماهنگی درخواست دهد.
+**Project Submission**
 
-**نحوه تحویل پروژه**
-
-متقاضی می‌تواند پروژه را به صورت یک مخزن Git در GitHub یا GitLab ارائه دهد.\
+The applicant can submit the project as a Git repository on GitHub or GitLab.\
 \
-**لینک‌‌ها**
+**Links**
 
 - [Tours Api](https://b473f46c-ea24-4b70-9d78-eb674e6a71f6.mock.pstmn.io/tours)
 
