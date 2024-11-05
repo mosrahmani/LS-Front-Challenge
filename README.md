@@ -4,7 +4,7 @@ Implement a Web Application for List of Tours by LastSecond
 
 **General Description**
 
-In this project, the applicant is required to create a small web application using modern front-end technologies that includes a list of tourist tours. The application must utilize the provided API to retrieve information and implement key features such as filtering, sorting, and searching for each product.
+In this project, you are asked to create a small web application using modern front-end technologies to display a list of tourist tours. Your application should use the provided API to retrieve tour information and implement core features such as filtering, sorting, and searching for each tour.
 
 **Core Features**
 
@@ -36,11 +36,11 @@ In this project, the applicant is required to create a small web application usi
 
 **Completion Deadline**
 
-The applicant must submit the project within 1 day from the time the challenge is sent. If additional time is needed, a request for coordination should be made.
+You should submit the project within 1 day from the time the challenge is sent. If you need more time, please request an extension.
 
 **Project Submission**
 
-The applicant can submit the project as a Git repository on GitHub or GitLab.\
+You can submit the project as a Git repository on GitHub or GitLab..\
 \
 **Links**
 
